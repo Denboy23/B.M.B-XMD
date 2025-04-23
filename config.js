@@ -17,9 +17,9 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "25566862457",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "263782093384",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "✦ B.M.B-XMD ✦ XMD ✦",
+OWNER_NAME: process.env.OWNER_NAME || "SALADICGANGSTER",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ✦ B.M.B-XMD ✦ XMD ✦*",
 // add bot owner name    
@@ -59,6 +59,6 @@ PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
 // make false if want private mod
 AUTO_TYPING: process.env.AUTO_TYPING || "true",
 // true for automatic show typing   
-AUTO_RECORDING: process.env.AUTO_RECORDING || "false"
+AUTO_RECORDING: process.env.AUTO_RECORDING || "true"
 // make it true for auto recoding 
 };
