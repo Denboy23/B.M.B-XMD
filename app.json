@@ -88,13 +88,13 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "𝐁.𝐌.𝐁-𝐗𝐌𝐃✨"
+      "value": "SALADICGANGSTER"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255767862457"
+      "value": "263782093384"
  },
 
     "BOT_NAME": {
@@ -132,7 +132,7 @@
     "AUTO_RECORDING": {
       "description": "Make it true if you want auto recoding.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
 
     "AUTO_TYPING": {
